@@ -207,12 +207,6 @@
      (web-mode
       (web-mode-content-type "javascript")
       (web-mode-engine "erb")))
-    ("JSON"
-     json-mode
-     json-ts-mode
-     (web-mode
-      (web-mode-content-type "json")
-      (web-mode-engine "none")))
     ("Jsonnet" jsonnet-mode)
     ("JSX"
      js2-jsx-mode
